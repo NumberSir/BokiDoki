@@ -1,4 +1,9 @@
 # BokiDoki 心跳美化部整合包
+
+# 请在下载游玩前首先阅读本说明文档<br>对于在文档中写明的内容仍进行提问的将不作解答
+
+</div>
+
 密码：**bokidoki**
 下载方式 see -> [release](https://github.com/BokiDoki-Beautification-Department/BokiDoki/releases/latest) <br>
 默认周末更新，更新频率1-2周视整合组情况而定
