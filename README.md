@@ -11,6 +11,11 @@
 必须加载beauty-selector，pb-mod，以及overfits才能正常使用（左→右顺序加载） -> [下载地址](https://github.com/BokiDoki-Beautification-Department/Meow) <br>
 有问题可直接在 [讨论区](https://github.com/orgs/BokiDoki-Beautification-Department/discussions) 反映（记得选择将你的帖子公开不然管理员可能找不着），**尽量不要在贴吧开贴，贴吧私聊几位负责人除外**（开贴一律不理会）。
 
+与大多数的整合版ModLoader不兼容，只保证汉化组发布的模组加载器ModLoader
+|     汉化组模组加载器     | 模组加载器源码地址 |
+| :----------------: | :----------------: |
+| [地址][github-dol] | [地址][modloader]  |
+
 ---
 
 # 更新日志
