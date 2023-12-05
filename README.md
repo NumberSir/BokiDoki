@@ -28,7 +28,7 @@
 ### 其它注意事项
 在游玩过程中遇到的问题请直接在[讨论区][disscussions]反映（记得选择将你的帖子公开不然管理员可能找不着），在其它平台（包括但不限于百度贴吧）公开交流讨论，可能不予理会。
 
-本模组仅保证与[汉化版]发布的游戏兼容，对与其它模组同时加载可能出现的兼容性问题不予保证。
+本模组仅保证与[汉化版][dol-chs-repo]发布的游戏兼容，对与其它模组同时加载可能出现的兼容性问题不予保证。
 
 ## 更新日志
 <details>
@@ -44,4 +44,5 @@
 [bs-repo]: https://github.com/suin14/Beauty-selector-mod
 [pb-repo]: ?
 [overfits-repo]: https://github.com/suin14/Overfits-mod
+[dol-chs-repo]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization
 [beautification-repos]: https://github.com/orgs/BokiDoki-Beautification-Department/repositories
