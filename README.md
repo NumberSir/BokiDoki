@@ -16,6 +16,8 @@
 | :----------------: | :----------------: |
 | [地址][github-dol] | [地址][modloader]  |
 
+github-dol https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/ 
+modloader https://github.com/Lyoko-Jeremie/sugarcube-2-ModLoader 
 ---
 
 # 更新日志
